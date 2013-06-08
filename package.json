@@ -1,0 +1,17 @@
+{
+  "name": "node-socketio4net",
+  "title": "Demo Node Server for socketio4net.client",
+  "description": "Demo Node.js Server for socketio4net.client",
+  "author": {
+    "name": "James W Stott",
+    "email": "jwstott@gmail.com"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.8.x || 0.10.x"
+  },
+  "dependencies": {
+    "azure": "~0.7.7",
+    "express": "~3.2.6"
+  }
+}
